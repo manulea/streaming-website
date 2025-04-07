@@ -121,3 +121,5 @@ application live {
 ## License
 
 This project is open-source and licensed under MIT License. Feel free to use, modify, and share!
+
+Happy streaming! 🎥
